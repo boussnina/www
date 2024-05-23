@@ -39,7 +39,7 @@ function About({ content, setContent }) {
                     <h2 className="font-medium title-font mt-4 text-gray-900 text-lg">
                     Elias Boussnina
                     </h2>
-                    <div className="w-12 h-1 bg-indigo-500 rounded mt-2 mb-4"></div>
+                    <div className="w-12 h-1 bg-blue-dark rounded mt-2 mb-4"></div>
                     <p className="text-base">
                     Copenhagen-based software developer, with a passion for "figuring it out", design, music and people.
                     </p>
@@ -51,7 +51,7 @@ function About({ content, setContent }) {
                     Locavore small batch listicle gastropub farm-to-table lumbersexual salvia messenger bag. Coloring book flannel truffaut craft beer drinking vinegar sartorial, disrupt fashion axe normcore meh butcher.
                     Portland 90's scenester vexillologist forage post-ironic asymmetrical, chartreuse disrupt butcher paleo intelligentsia pabst before they sold out four loko. 3 wolf moon brooklyn.
                 </p>
-                <a onClick={() => handleClick(1)} className="text-indigo-500 inline-flex items-center">
+                <a onClick={() => handleClick(1)} className="text-blue-dark inline-flex items-center">
                     Learn More
                 </a>
                 </div>
